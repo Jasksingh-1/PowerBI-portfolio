@@ -63,9 +63,4 @@ There is also visible growth in **Asia and Australia**, indicating expanding glo
 - `README.md` – Project documentation
 - `data_jobs_dashboard.pbix`- powerbi file
 
----
 
-## 🚀 Future Improvements
-- Rebuild the dashboard and include the Power BI (.pbix) file
-- Add interactive filters and drill-downs
-- Publish an interactive version via Power BI Service
